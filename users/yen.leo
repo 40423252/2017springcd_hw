@@ -92,12 +92,20 @@
 <v t="leo.20170412100751.39"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170412105153.1"><vh>2017 04/11 第八週</vh>
+<v t="leo.20170412105153.1"><vh>2017 04/12 第八週</vh>
 <v t="leo.20170412105153.2" a="E"><vh>周次</vh>
 <v t="leo.20170412105153.3"><vh>Week</vh></v>
 </v>
 <v t="leo.20170412105153.4" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170412105153.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170419102011.1"><vh>2017 04/19 第九週(期中考)</vh>
+<v t="leo.20170419102011.2" a="E"><vh>周次</vh>
+<v t="leo.20170419102011.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170419102011.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170419102011.5"><vh>上課內容1</vh></v>
 </v>
 </v>
 <v t="leo.20170412100751.40"><vh>快捷鍵</vh>
@@ -559,6 +567,41 @@ make.start()
 						
 </t>
 <t tx="leo.20170412105153.5">&lt;p align="left"&gt;
+1. &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. &lt;/p&gt;
+
+&lt;iframe src="" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170419102011.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170419102011.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419102011.3"># 第九週
+
+</t>
+<t tx="leo.20170419102011.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170419102011.5">&lt;p align="left"&gt;
 1. &lt;/p&gt;
 
 &lt;p align="left"&gt;
