@@ -100,12 +100,36 @@
 <v t="leo.20170412105153.5"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170419102011.1"><vh>2017 04/19 第九週(期中考)</vh>
+<v t="leo.20170419102011.1" a="E"><vh>2017 04/19 第九週(期中考)</vh>
 <v t="leo.20170419102011.2" a="E"><vh>周次</vh>
 <v t="leo.20170419102011.3"><vh>Week</vh></v>
 </v>
 <v t="leo.20170419102011.4" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170419102011.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170614101242.1" a="E"><vh>2017 04/26 第十週</vh>
+<v t="leo.20170614101242.2" a="E"><vh>周次</vh>
+<v t="leo.20170614101242.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170614101242.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170614101242.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170614101245.1" a="E"><vh>2017 05/03 第十一週</vh>
+<v t="leo.20170614101245.2" a="E"><vh>周次</vh>
+<v t="leo.20170614101245.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170614101245.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170614101245.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170614101247.1" a="E"><vh>2017 05/10 第十二週</vh>
+<v t="leo.20170614101247.2" a="E"><vh>周次</vh>
+<v t="leo.20170614101247.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170614101247.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170614101247.5"><vh>上課內容1</vh></v>
 </v>
 </v>
 <v t="leo.20170412100751.40"><vh>快捷鍵</vh>
@@ -136,6 +160,9 @@
 <v t="leo.20170412105425.1"><vh>@edit 20170405.md</vh></v>
 <v t="leo.20170412105427.1"><vh>@edit 20170412.md</vh></v>
 <v t="leo.20170419104713.1"><vh>@edit 20170419.md</vh></v>
+<v t="leo.20170614100919.1"><vh>@edit 20170426.md</vh></v>
+<v t="leo.20170614100925.1"><vh>@edit 20170503.md</vh></v>
+<v t="leo.20170614100927.1"><vh>@edit 20170510.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -602,6 +629,111 @@ make.start()
 						
 </t>
 <t tx="leo.20170419102011.5">&lt;p align="left"&gt;
+1. &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. &lt;/p&gt;
+
+&lt;iframe src="" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170614101242.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170614101242.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170614101242.3"># 第十週
+
+</t>
+<t tx="leo.20170614101242.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170614101242.5">&lt;p align="left"&gt;
+1. &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. &lt;/p&gt;
+
+&lt;iframe src="" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170614101245.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170614101245.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170614101245.3"># 第十一週
+
+</t>
+<t tx="leo.20170614101245.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170614101245.5">&lt;p align="left"&gt;
+1. &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. &lt;/p&gt;
+
+&lt;iframe src="" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170614101247.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170614101247.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170614101247.3"># 第十二週
+
+</t>
+<t tx="leo.20170614101247.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170614101247.5">&lt;p align="left"&gt;
 1. &lt;/p&gt;
 
 &lt;p align="left"&gt;
