@@ -671,7 +671,7 @@ cgo.playAnimation()
 
 
 
-&lt;p&gt;參考的網際程式如下:&lt;/p&gt;
+&lt;p&gt;以下為參考的網際程式:&lt;/p&gt;
 
 &lt;pre class="brush: python"&gt;
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
@@ -730,6 +730,8 @@ ctx.stroke()
 ctx.closePath()
 &lt;/script&gt;
 &lt;/pre&gt;
+
+&lt;p&gt;&lt;button onClick="lity('./../data/midterm5.png')"&gt;&lt;span class="glyphicon glyphicon-picture"&gt;&lt;/span&gt; 尺寸圖&lt;/button&gt;&lt;/p&gt;
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
