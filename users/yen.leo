@@ -132,7 +132,7 @@
 <v t="leo.20170614101247.5"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170614104235.1"><vh>2017 05/10 第十三週</vh>
+<v t="leo.20170614104235.1"><vh>2017 05/17 第十三週</vh>
 <v t="leo.20170614104235.2" a="E"><vh>周次</vh>
 <v t="leo.20170614104235.3"><vh>Week</vh></v>
 </v>
@@ -140,7 +140,7 @@
 <v t="leo.20170614104235.5"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170614104238.1"><vh>2017 05/10 第十四週</vh>
+<v t="leo.20170614104238.1"><vh>2017 05/24 第十四週</vh>
 <v t="leo.20170614104238.2" a="E"><vh>周次</vh>
 <v t="leo.20170614104238.3"><vh>Week</vh></v>
 </v>
@@ -148,7 +148,7 @@
 <v t="leo.20170614104238.5"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170614104243.1"><vh>2017 05/10 第十五週</vh>
+<v t="leo.20170614104243.1"><vh>2017 05/31 第十五週</vh>
 <v t="leo.20170614104243.2" a="E"><vh>周次</vh>
 <v t="leo.20170614104243.3"><vh>Week</vh></v>
 </v>
@@ -156,12 +156,20 @@
 <v t="leo.20170614104243.5"><vh>上課內容1</vh></v>
 </v>
 </v>
-<v t="leo.20170614104245.1"><vh>2017 05/10 第十六週</vh>
+<v t="leo.20170614104245.1"><vh>2017 06/07 第十六週</vh>
 <v t="leo.20170614104245.2" a="E"><vh>周次</vh>
 <v t="leo.20170614104245.3"><vh>Week</vh></v>
 </v>
 <v t="leo.20170614104245.4" a="E"><vh>課堂報告1</vh>
 <v t="leo.20170614104245.5"><vh>上課內容1</vh></v>
+</v>
+</v>
+<v t="leo.20170620220505.1"><vh>2017 06/07 第十七週</vh>
+<v t="leo.20170620220505.2" a="E"><vh>周次</vh>
+<v t="leo.20170620220505.3"><vh>Week</vh></v>
+</v>
+<v t="leo.20170620220505.4" a="E"><vh>課堂報告1</vh>
+<v t="leo.20170620220505.5"><vh>上課內容1</vh></v>
 </v>
 </v>
 <v t="leo.20170412100751.40"><vh>快捷鍵</vh>
@@ -199,6 +207,7 @@
 <v t="leo.20170614104055.1"><vh>@edit 20170524.md</vh></v>
 <v t="leo.20170614104059.1"><vh>@edit 20170531.md</vh></v>
 <v t="leo.20170614104101.1"><vh>@edit 20170607.md</vh></v>
+<v t="leo.20170620215812.1"><vh>@edit 20170614.md</vh></v>
 <v t="yen.20170108171733.81"><vh>@path pages</vh>
 <v t="yen.20170108171733.82"><vh>@edit pages_1.md</vh></v>
 </v>
@@ -910,6 +919,41 @@ make.start()
 						
 </t>
 <t tx="leo.20170614104245.5">&lt;p align="left"&gt;
+1. &lt;/p&gt;
+
+&lt;p align="left"&gt;
+2. &lt;/p&gt;
+
+&lt;iframe src="" width="640" height="347" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20170620220505.1">&lt;section&gt;
+@others
+&lt;/section&gt;</t>
+<t tx="leo.20170620220505.2">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620220505.3"># 第十七週
+
+</t>
+<t tx="leo.20170620220505.4">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+
+						
+</t>
+<t tx="leo.20170620220505.5">&lt;p align="left"&gt;
 1. &lt;/p&gt;
 
 &lt;p align="left"&gt;
