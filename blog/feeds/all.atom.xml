@@ -162,7 +162,13 @@ ctx.font = "40px ScriptS"
 ctx.fillText("40423252", (canvas.width)/2-60, (canvas.height)/2+25)
 ctx.stroke()
 
-&lt;/script&gt;</summary><category term="w15"></category></entry><entry><title>2017.05.24 第十四週</title><link href="./20170524-di-shi-si-zhou.html" rel="alternate"></link><published>2017-05-24T00:00:00+08:00</published><updated>2017-05-24T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-05-24:./20170524-di-shi-si-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="w14"></category></entry><entry><title>2017.05.17 第十三週</title><link href="./20170517-di-shi-san-zhou.html" rel="alternate"></link><published>2017-05-17T00:00:00+08:00</published><updated>2017-05-17T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-05-17:./20170517-di-shi-san-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="w13"></category></entry><entry><title>2017.05.10 第十二週</title><link href="./Week%2012.html" rel="alternate"></link><published>2017-05-10T00:00:00+08:00</published><updated>2017-05-10T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-05-10:./Week 12.html</id><summary type="html">&lt;h3&gt;正齒輪-FeatureScript &lt;/h3&gt;
+&lt;/script&gt;</summary><category term="w15"></category></entry><entry><title>2017.05.24 第十四週</title><link href="./20170524-di-shi-si-zhou.html" rel="alternate"></link><published>2017-05-24T00:00:00+08:00</published><updated>2017-05-24T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-05-24:./20170524-di-shi-si-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;h3&gt;架設伺服器主機&lt;/h3&gt;
+
+&lt;!-- PELICAN_END_SUMMARY --&gt;
+
+&lt;p&gt;詳細資料請參考這位同學的介紹: &lt;a href="https://40423245.github.io/2017springcd_hw/blog/2017spring-cd-W14.html"&gt;40423245&lt;/a&gt;&lt;/p&gt;</summary><category term="w14"></category></entry><entry><title>2017.05.17 第十三週</title><link href="./20170517-di-shi-san-zhou.html" rel="alternate"></link><published>2017-05-17T00:00:00+08:00</published><updated>2017-05-17T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-05-17:./20170517-di-shi-san-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="w13"></category></entry><entry><title>2017.05.10 第十二週</title><link href="./w12.html" rel="alternate"></link><published>2017-05-10T00:00:00+08:00</published><updated>2017-05-10T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-05-10:./w12.html</id><summary type="html">&lt;h3&gt;正齒輪-FeatureScript &lt;/h3&gt;
 
 
 
@@ -415,7 +421,9 @@ export const spur = defineFeature(function(context is Context, id is Id, definit
 skSolve(gearSketch);
 });
 &lt;/pre&gt;&lt;/div&gt;
-&lt;/pre&gt;</summary><category term="FeatureScript"></category></entry><entry><title>2017.05.03 第十一週</title><link href="./20170503-di-shi-yi-zhou.html" rel="alternate"></link><published>2017-05-03T00:00:00+08:00</published><updated>2017-05-03T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-05-03:./20170503-di-shi-yi-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
+&lt;/pre&gt;</summary><category term="FeatureScript"></category></entry><entry><title>2017.05.03 第十一週</title><link href="./20170503-di-shi-yi-zhou.html" rel="alternate"></link><published>2017-05-03T00:00:00+08:00</published><updated>2017-05-03T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-05-03:./20170503-di-shi-yi-zhou.html</id><summary type="html">&lt;h3&gt;單一正齒輪&lt;/h3&gt;
+
+
 
 &lt;!-- 導入 Brython 標準程式庫 --&gt;
 
