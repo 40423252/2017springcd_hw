@@ -731,6 +731,7 @@ make.start()
 </t>
 <t tx="leo.20170614101245.3"># 第十一週
 
+利用Brython繪製單一正齒輪
 </t>
 <t tx="leo.20170614101245.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -766,6 +767,7 @@ make.start()
 </t>
 <t tx="leo.20170614101247.3"># 第十二週
 
+利用參數是繪製程式碼
 </t>
 <t tx="leo.20170614101247.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -801,6 +803,7 @@ make.start()
 </t>
 <t tx="leo.20170614104235.3"># 第十三週
 
+繪製行走機構
 </t>
 <t tx="leo.20170614104235.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -836,6 +839,7 @@ make.start()
 </t>
 <t tx="leo.20170614104238.3"># 第十四週
 
+用虛擬主機架設ubunt serve 16.04.2
 </t>
 <t tx="leo.20170614104238.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
@@ -871,7 +875,7 @@ make.start()
 </t>
 <t tx="leo.20170614104243.3"># 第十五週
 
-</t>
+在onshape繪製一齒輪上面需有自己的學號</t>
 <t tx="leo.20170614104243.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -906,7 +910,7 @@ make.start()
 </t>
 <t tx="leo.20170614104245.3"># 第十六週
 
-</t>
+利用遠端連結Fossil</t>
 <t tx="leo.20170614104245.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
@@ -941,7 +945,7 @@ make.start()
 </t>
 <t tx="leo.20170620220505.3"># 第十七週
 
-</t>
+期末作業</t>
 <t tx="leo.20170620220505.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
