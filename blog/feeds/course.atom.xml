@@ -1107,7 +1107,22 @@ ctx.closePath()
 &lt;p&gt;&lt;a href="https://vimeo.com/215044128"&gt;錄製_2017_04_28_00_20_48_588&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;</summary><category term="w7"></category></entry><entry><title>2017.03.29 第六週</title><link href="./20170329-di-liu-zhou.html" rel="alternate"></link><published>2017-03-29T00:00:00+08:00</published><updated>2017-03-29T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-03-29:./20170329-di-liu-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="w6"></category></entry><entry><title>2017.03.22 第五週</title><link href="./20170322-di-wu-zhou.html" rel="alternate"></link><published>2017-03-22T00:00:00+08:00</published><updated>2017-03-22T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-03-22:./20170322-di-wu-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="w5"></category></entry><entry><title>2017.03.15 第四週</title><link href="./20170315-di-si-zhou.html" rel="alternate"></link><published>2017-03-15T00:00:00+08:00</published><updated>2017-03-15T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-03-15:./20170315-di-si-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="w4"></category></entry><entry><title>2017.03.08 第三週</title><link href="./20170308-di-san-zhou.html" rel="alternate"></link><published>2017-03-08T00:00:00+08:00</published><updated>2017-03-08T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-03-08:./20170308-di-san-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;
 
 &lt;p&gt;★第五組網址：&lt;a href="https://mde2a2.kmol.info/cdbg5"&gt;&lt;button type="button" class="btn btn-primary btn-xs"&gt;按下去&lt;/button&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;心得：每組都要在https://mde2a2.kmol.info 主機上建倉儲:https://mde2a2.kmol.info/cdbg5  建立好之後，每個人就可以分工去製作每週作業&lt;/p&gt;</summary><category term="w3"></category></entry><entry><title>2017.03.01 第二週</title><link href="./20170301-di-er-zhou.html" rel="alternate"></link><published>2017-03-01T00:00:00+08:00</published><updated>2017-03-01T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-03-01:./20170301-di-er-zhou.html</id><summary type="html">&lt;p&gt;(&lt;b&gt;&lt;font color="#FF0000"&gt;stunnel設定IP+Solvespace 四連桿繪製&lt;/font&gt;&lt;/b&gt;)&lt;/p&gt;
+&lt;p&gt;心得：每組都要在https://mde2a2.kmol.info 主機上建倉儲:https://mde2a2.kmol.info/cdbg5  建立好之後，每個人就可以分工去製作每週作業&lt;/p&gt;</summary><category term="w3"></category></entry><entry><title>2017.03.01 第二週</title><link href="./20170301-di-er-zhou.html" rel="alternate"></link><published>2017-03-01T00:00:00+08:00</published><updated>2017-03-01T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-03-01:./20170301-di-er-zhou.html</id><summary type="html">&lt;h3&gt; Solvespace 連桿圖&lt;/h3&gt;
+
+
+
+&lt;p&gt;心得：這週的圖雖然很好畫，但是我卻遇到了很多瓶頸，過程讓我學到了永不放棄的精神。&lt;/p&gt;
+&lt;h3&gt;零件30cm&lt;/h3&gt;
+&lt;iframe src="./../photo/30連桿.html" width="600" height="450"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;零件50cm&lt;/h3&gt;
+&lt;iframe src="./../photo/50連桿.html" width="600" height="450"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;零件60cm&lt;/h3&gt;
+&lt;iframe src="./../photo/60連桿.html" width="600" height="450"&gt;&lt;/iframe&gt;
+
+&lt;h3&gt;組合圖&lt;/h3&gt;
+&lt;iframe src="./../photo/組合圖連桿.html" width="600" height="450"&gt;&lt;/iframe&gt;</summary><category term="w2"></category></entry><entry><title>2017.02.22 第一週</title><link href="./20170222-di-yi-zhou.html" rel="alternate"></link><published>2017-02-22T00:00:00+08:00</published><updated>2017-02-22T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-02-22:./20170222-di-yi-zhou.html</id><summary type="html">&lt;p&gt;(&lt;b&gt;&lt;font color="#FF0000"&gt;stunnel設定IP+Solvespace 四連桿繪製&lt;/font&gt;&lt;/b&gt;)&lt;/p&gt;
 
 
 &lt;h3&gt;修改Start.bat，讓程式自動更改stunnel設定檔ip位址&lt;/h3&gt;
@@ -1212,25 +1227,7 @@ Exit
 &lt;h3&gt;影片實作&lt;/h3&gt;
 &lt;iframe src="https://player.vimeo.com/video/215021068" width="640" height="341" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;a href="https://vimeo.com/215021068"&gt;錄製_2017_04_27_21_58_33_269&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
-
-&lt;hr/&gt;
-
-&lt;h1&gt;Solvespace 連桿圖&lt;/h1&gt;
-&lt;p&gt;心得：這週的圖雖然很好畫，但是我卻遇到了很多瓶頸，過程讓我學到了永不放棄的精神。&lt;/p&gt;
-&lt;h3&gt;零件30cm&lt;/h3&gt;
-&lt;iframe src="./../photo/30連桿.html" width="600" height="450"&gt;&lt;/iframe&gt;
-
-&lt;h3&gt;零件50cm&lt;/h3&gt;
-&lt;iframe src="./../photo/50連桿.html" width="600" height="450"&gt;&lt;/iframe&gt;
-
-&lt;h3&gt;零件60cm&lt;/h3&gt;
-&lt;iframe src="./../photo/60連桿.html" width="600" height="450"&gt;&lt;/iframe&gt;
-
-&lt;h3&gt;組合圖&lt;/h3&gt;
-&lt;iframe src="./../photo/組合圖連桿.html" width="600" height="450"&gt;&lt;/iframe&gt;</summary><category term="w2"></category></entry><entry><title>2017.02.22 第一週</title><link href="./20170222-di-yi-zhou.html" rel="alternate"></link><published>2017-02-22T00:00:00+08:00</published><updated>2017-02-22T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-02-22:./20170222-di-yi-zhou.html</id><summary type="html">&lt;h3&gt;修改 stunnel.conf 的 IP 設定&lt;/h3&gt;
-
-&lt;p&gt;心得: 原本以前教的都忘得差不多了，幸好還是有點記憶在的，在老師的複習下很快的又熟悉了&lt;/p&gt;</summary><category term="w1"></category></entry><entry><title>Fossil SCM 簡介</title><link href="./intro-fossil-scm.html" rel="alternate"></link><published>2017-02-17T11:00:00+08:00</published><updated>2017-02-17T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-17:./intro-fossil-scm.html</id><summary type="html">&lt;p&gt;Fossil SCM 是一套軟體配置管理 (Software Configuration Management) 系統, 其中包含分散式版次控管 (DVC, Distributed Version Control) 、&lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/wikitheory.wiki"&gt;Wiki&lt;/a&gt; 、&lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/bugtheory.wiki"&gt;Bug Tracking&lt;/a&gt; 與 &lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/event.wiki"&gt;Technote&lt;/a&gt; 等功能, 可以用來控制及追蹤軟體開發專案, 並且紀錄專案開發歷程, 在協同產品設計實習課程中, 我們除了使用 git、github 與 bitbucket 之外, 將要在區域網路與系上主幹中, 配置每班兩台的 Fossil SCM 實習主機.&lt;/p&gt;
+&lt;p&gt;&lt;a href="https://vimeo.com/215021068"&gt;錄製_2017_04_27_21_58_33_269&lt;/a&gt; from &lt;a href="https://vimeo.com/user61557003"&gt;謝孟哲&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;</summary><category term="w1"></category></entry><entry><title>Fossil SCM 簡介</title><link href="./intro-fossil-scm.html" rel="alternate"></link><published>2017-02-17T11:00:00+08:00</published><updated>2017-02-17T11:00:00+08:00</updated><author><name>yen</name></author><id>tag:,2017-02-17:./intro-fossil-scm.html</id><summary type="html">&lt;p&gt;Fossil SCM 是一套軟體配置管理 (Software Configuration Management) 系統, 其中包含分散式版次控管 (DVC, Distributed Version Control) 、&lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/wikitheory.wiki"&gt;Wiki&lt;/a&gt; 、&lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/bugtheory.wiki"&gt;Bug Tracking&lt;/a&gt; 與 &lt;a href="http://fossil-scm.org/xfer/doc/trunk/www/event.wiki"&gt;Technote&lt;/a&gt; 等功能, 可以用來控制及追蹤軟體開發專案, 並且紀錄專案開發歷程, 在協同產品設計實習課程中, 我們除了使用 git、github 與 bitbucket 之外, 將要在區域網路與系上主幹中, 配置每班兩台的 Fossil SCM 實習主機.&lt;/p&gt;
 
 
 &lt;h2&gt;Fossil SCM&lt;/h2&gt;
