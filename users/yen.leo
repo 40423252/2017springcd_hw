@@ -989,7 +989,7 @@ make.start()
 </t>
 <t tx="leo.20170625045927.3"># 第十八週
 
-報告期中後到期末做了哪些作業</t>
+報告期中後到期末做的作業有多少</t>
 <t tx="leo.20170625045927.4">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 &lt;!-- 請注意, @others 不可以內縮 --&gt;
