@@ -1042,22 +1042,7 @@ ctx.strokeStyle = "blue"
 ctx.stroke()
 ctx.closePath()
 &lt;/script&gt;
-&lt;/pre&gt;
-
-&lt;p&gt;&lt;button onClick="lity('./../data/midterm5.png')"&gt;&lt;span class="glyphicon glyphicon-picture"&gt;&lt;/span&gt; 尺寸圖&lt;/button&gt;&lt;/p&gt;
-
-&lt;!-- 導入 Brython 標準程式庫 --&gt;
-
-&lt;script type="text/javascript" src="https://cdn.rawgit.com/brython-dev/brython/master/www/src/brython_dist.js"&gt;
-&lt;/script&gt;
-
-&lt;!-- 啟動 Brython --&gt;
-
-&lt;p&gt;&lt;script&gt;
-window.onload=function(){
-brython(1);
-}
-&lt;/script&gt;&lt;/p&gt;</summary><category term="w9"></category></entry><entry><title>2017.04.12 第八週</title><link href="./20170412-di-ba-zhou.html" rel="alternate"></link><published>2017-04-12T00:00:00+08:00</published><updated>2017-04-12T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-04-12:./20170412-di-ba-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="w8"></category></entry><entry><title>2017.04.05 第七週</title><link href="./20170405-di-qi-zhou.html" rel="alternate"></link><published>2017-04-05T00:00:00+08:00</published><updated>2017-04-05T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-04-05:./20170405-di-qi-zhou.html</id><summary type="html">&lt;p&gt;(&lt;b&gt;&lt;font color="#FF0000"&gt;Onshpe八連桿組合&lt;/font&gt;&lt;/b&gt;)&lt;/p&gt;
+&lt;/pre&gt;</summary><category term="w9"></category></entry><entry><title>2017.04.12 第八週</title><link href="./20170412-di-ba-zhou.html" rel="alternate"></link><published>2017-04-12T00:00:00+08:00</published><updated>2017-04-12T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-04-12:./20170412-di-ba-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="w8"></category></entry><entry><title>2017.04.05 第七週</title><link href="./20170405-di-qi-zhou.html" rel="alternate"></link><published>2017-04-05T00:00:00+08:00</published><updated>2017-04-05T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-04-05:./20170405-di-qi-zhou.html</id><summary type="html">&lt;p&gt;(&lt;b&gt;&lt;font color="#FF0000"&gt;Onshpe八連桿組合&lt;/font&gt;&lt;/b&gt;)&lt;/p&gt;
 
 
 &lt;h1&gt;零件繪製影片part1&lt;/h1&gt;
