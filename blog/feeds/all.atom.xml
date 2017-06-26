@@ -976,7 +976,7 @@ cy = canvas.height/2
 gear.translate(cx, cy)
 # render 繪出靜態正齒輪輪廓
 cgo.render(gear)
-&lt;/script&gt;</summary><category term="w11"></category></entry><entry><title>2017.04.26 第十週</title><link href="./20170426-di-shi-zhou.html" rel="alternate"></link><published>2017-04-26T00:00:00+08:00</published><updated>2017-04-26T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-04-26:./20170426-di-shi-zhou.html</id><summary type="html">&lt;!-- PELICAN_END_SUMMARY --&gt;</summary><category term="w10"></category></entry><entry><title>2017.04.19 第九週(期中考)</title><link href="./20170419-di-jiu-zhou-qi-zhong-kao.html" rel="alternate"></link><published>2017-04-19T00:00:00+08:00</published><updated>2017-04-19T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-04-19:./20170419-di-jiu-zhou-qi-zhong-kao.html</id><summary type="html">&lt;h3&gt;四連桿機構協同 Trace Point 查驗&lt;/h3&gt;
+&lt;/script&gt;</summary><category term="w11"></category></entry><entry><title>2017.04.26 第十週</title><link href="./20170426-di-shi-zhou.html" rel="alternate"></link><published>2017-04-26T00:00:00+08:00</published><updated>2017-04-26T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-04-26:./20170426-di-shi-zhou.html</id><summary type="html"></summary><category term="w10"></category></entry><entry><title>2017.04.19 第九週(期中考)</title><link href="./20170419-di-jiu-zhou-qi-zhong-kao.html" rel="alternate"></link><published>2017-04-19T00:00:00+08:00</published><updated>2017-04-19T00:00:00+08:00</updated><author><name>40423252</name></author><id>tag:,2017-04-19:./20170419-di-jiu-zhou-qi-zhong-kao.html</id><summary type="html">&lt;h3&gt;四連桿機構協同 Trace Point 查驗&lt;/h3&gt;
 
 
 
